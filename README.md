@@ -1,11 +1,11 @@
 ## Naoya Minomura
 
-### GitHub Stats Card
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=minobun)
-
-### Top Languages Card
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=minobun)
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=minobun&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minobun" />
+</a>
 <!--
 **minobun/minobun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
